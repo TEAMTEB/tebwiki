@@ -40,7 +40,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 사용법: 검색 \[네이버/구글/pypi/djs/dpy\] \[검색 내용\]
 
-* 슬 지원!
+* 슬커 지원!
 
 ![&#xB775;&#xC774;&#xBD07;&#xC774; pypi&#xC5D0;&#xC11C; discord.py&#xB97C; &#xAC80;&#xC0C9;&#xD558;&#xACE0;&#xC788;&#xB124;&#xC694;!](../.gitbook/assets/.png.png)
 
