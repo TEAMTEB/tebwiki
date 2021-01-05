@@ -5,4 +5,5 @@
 ## 띵이봇 <a id="thingebot"></a>
 
 * [띵이봇 소개](thingebot/about_thingebot.md)
+* [명령어](thingebot/commands.md)
 
