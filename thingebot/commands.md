@@ -18,7 +18,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 아래는 띵이봇의 유틸리티 기능들이에요!
 
-### qr코
+### qr코드 
 
 #### 띵이봇에는 QR코드를 만들수있는 **?qr코드** 명령어가 있답니다 :D
 
@@ -26,7 +26,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 ![?qr&#xCF54;&#xB4DC; &#xBA85;&#xB839;&#xC5B4; &#xC0AC;&#xC6A9; &#xC0AC;&#xC9C4;](../.gitbook/assets/qr-.png)
 
-### url단
+### url단축 
 
 띵이봇에는 URL 단축기능도있어요!
 
@@ -34,7 +34,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 ![?url&#xB2E8;&#xCD95; &#xBA85;&#xB839;&#xC5B4;&#xB85C; &#xC5EC;&#xB7EC;&#xBD84;&#xC774; &#xC9C0;&#xAE08; &#xC788;&#xB294; &#xC774; &#xC6F9;&#xC0AC;&#xC774;&#xD2B8;&#xB97C; &#xB2E8;&#xCD95;&#xD55C; &#xACB0;&#xACFC;!](../.gitbook/assets/url-.png)
 
-### 검
+### 검색 
 
 그게 다가 아니랍니다! 띵이봇은 검색기능도 내장하고있어요!
 
