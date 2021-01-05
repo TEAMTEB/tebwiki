@@ -2,7 +2,7 @@
 
 * [홈](README.md)
 
-## 띵이봇 <a id="undefine"></a>
+## 띵이봇 <a id="thingebot"></a>
 
-* [띵이봇 소개](undefine/thinge.md)
+* [띵이봇 소개](thingebot/about_thingebot.md)
 
