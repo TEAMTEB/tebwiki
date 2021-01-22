@@ -9,6 +9,10 @@
   * [명령어](thingebot/about_thingebot/commands.md)
 * [띵이봇 웹사이트](https://thinge.teamteb.ga)
 
+## 연두봇 <a id="yundu"></a>
+
+* [연두봇 소개](yundu/about.md)
+
 ## 링크들 <a id="links"></a>
 
 * [팀 텝 공식 웹사이트](https://www.teamteb.ga)
