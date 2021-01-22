@@ -26,7 +26,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 사용법: qr코드 \[QR코드로 만들 내용\]
 
-![?qr&#xCF54;&#xB4DC; &#xBA85;&#xB839;&#xC5B4; &#xC0AC;&#xC6A9; &#xC0AC;&#xC9C4;](../.gitbook/assets/qr-.png)
+![?qr&#xCF54;&#xB4DC; &#xBA85;&#xB839;&#xC5B4; &#xC0AC;&#xC6A9; &#xC0AC;&#xC9C4;](../../.gitbook/assets/qr-.png)
 
 ### url단축 
 
@@ -34,7 +34,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 사용법: url단축 \[링크\]
 
-![?url&#xB2E8;&#xCD95; &#xBA85;&#xB839;&#xC5B4;&#xB85C; &#xC5EC;&#xB7EC;&#xBD84;&#xC774; &#xC9C0;&#xAE08; &#xC788;&#xB294; &#xC774; &#xC6F9;&#xC0AC;&#xC774;&#xD2B8;&#xB97C; &#xB2E8;&#xCD95;&#xD55C; &#xACB0;&#xACFC;!](../.gitbook/assets/url-.png)
+![?url&#xB2E8;&#xCD95; &#xBA85;&#xB839;&#xC5B4;&#xB85C; &#xC5EC;&#xB7EC;&#xBD84;&#xC774; &#xC9C0;&#xAE08; &#xC788;&#xB294; &#xC774; &#xC6F9;&#xC0AC;&#xC774;&#xD2B8;&#xB97C; &#xB2E8;&#xCD95;&#xD55C; &#xACB0;&#xACFC;!](../../.gitbook/assets/url-.png)
 
 ### 검색 
 
@@ -44,7 +44,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 * 슬커 지원!
 
-![&#xB775;&#xC774;&#xBD07;&#xC774; pypi&#xC5D0;&#xC11C; discord.py&#xB97C; &#xAC80;&#xC0C9;&#xD558;&#xACE0;&#xC788;&#xB124;&#xC694;!](../.gitbook/assets/.png.png)
+![&#xB775;&#xC774;&#xBD07;&#xC774; pypi&#xC5D0;&#xC11C; discord.py&#xB97C; &#xAC80;&#xC0C9;&#xD558;&#xACE0;&#xC788;&#xB124;&#xC694;!](../../.gitbook/assets/.png.png)
 
 ### 계산
 
@@ -56,7 +56,7 @@ description: '아직 작성중인 페이지에요! 잠시만 기다려주세요 
 
 * 슬커 지원!
 
-![&#xB775;&#xC774;&#xBD07;&#xC774; 1+2&#xB97C; &#xD574;&#xC8FC;&#xACE0;&#xC788;&#xB294; &#xBAA8;&#xC2B5;!](../.gitbook/assets/.png%20%281%29.png)
+![&#xB775;&#xC774;&#xBD07;&#xC774; 1+2&#xB97C; &#xD574;&#xC8FC;&#xACE0;&#xC788;&#xB294; &#xBAA8;&#xC2B5;!](../../.gitbook/assets/.png%20%281%29.png)
 
 ## 안내 
 

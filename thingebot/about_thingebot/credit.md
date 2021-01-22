@@ -2,7 +2,7 @@
 
 ## 개발자들
 
-[애브리띵\#2227](https://discord.com/users/694017913723682946)
+[애브리띵\#8479](https://discord.com/users/694017913723682946)
 
 [yswysw\#9328](https://discord.com/users/745848200195473490)
 

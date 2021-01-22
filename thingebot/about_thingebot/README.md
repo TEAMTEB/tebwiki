@@ -4,7 +4,7 @@ description: '띵이봇은 디스코드를 더욱더 편하고, 즐겁게하는 
 
 # 띵이봇 소개
 
-![&#xB775;&#xC774;&#xBD07; &#xD504;&#xB85C;&#xD544;&#xC774;&#xBBF8;&#xC9C0;](../.gitbook/assets/thingebot-logo.png)
+![&#xB775;&#xC774;&#xBD07; &#xD504;&#xB85C;&#xD544;&#xC774;&#xBBF8;&#xC9C0;](../../.gitbook/assets/thingebot-logo.png)
 
 | 정보 | 내용 |
 | :---: | :---: |
