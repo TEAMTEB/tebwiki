@@ -5,8 +5,8 @@
 ## 띵이봇 <a id="thingebot"></a>
 
 * [띵이봇 소개](thingebot/about_thingebot/README.md)
-  * [크레딧](thingebot/about_thingebot/credit.md)
   * [명령어](thingebot/about_thingebot/commands.md)
+  * [크레딧](thingebot/about_thingebot/credit.md)
 * [띵이봇 웹사이트](https://thinge.teamteb.ga)
 
 ## 연두봇 <a id="yundu"></a>
