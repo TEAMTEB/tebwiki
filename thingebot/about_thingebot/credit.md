@@ -2,7 +2,7 @@
 
 ## 개발자들
 
-[애브리띵#8479](https://discord.com/users/694017913723682946)
+[애브리띵\#8479](https://discord.com/users/694017913723682946)
 
 ## 모듈
 
@@ -30,11 +30,11 @@
 
 * 링크를 클릭하시면 관련 웹사이트\(Document, pypi, Github\)로 이동합니다!
 
-## 기타 등등
+## 글꼴
 
-### 글꼴
+### NeoDGM
 
-**?타자** 명령어에 NEODGM(네오 둥근모) 글꼴이 사용되었습니다.
+_**?타자연습**_ ****명령어에서 네오 둥근모 글꼴이 사용되었습니다
 
-[링크](https://neodgm.dalgona.dev/)
+[홈페이지](https://neodgm.dalgona.dev/)
 
