@@ -12,5 +12,4 @@
 ## 링크들 <a id="links"></a>
 
 * [팀 텝 공식 웹사이트](https://www.teamteb.ga)
-* [띵이봇](https://thinge.teamteb.ga)
 
