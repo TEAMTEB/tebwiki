@@ -32,9 +32,9 @@
 
 ## 글꼴
 
-### NeoDGM
+### 티웨이 항공
 
 _**?타자연습**_ ****명령어에서 네오 둥근모 글꼴이 사용되었습니다
 
-[홈페이지](https://neodgm.dalgona.dev/)
+[홈페이지](https://www.twayair.com/app/serviceInfo/contents/1320#fntTab1)
 
