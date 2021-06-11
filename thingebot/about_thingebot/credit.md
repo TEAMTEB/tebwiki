@@ -64,3 +64,9 @@ Rampaka\#6441님이 제작하신 코드를 응용하였습니다!
 
 [Github](https://github.com/Rampaka/Py-SearchLyrics-Bot)
 
+### 아키네이터
+
+Minibox\#3332님의 코드를 이용했습니다!
+
+[Github](https://gist.github.com/minibox24/f7fae61305ef118cf288bc4a9957af41)
+
