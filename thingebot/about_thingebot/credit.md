@@ -36,12 +36,6 @@
 
 [Github ](https://github.com/kiki7000/discord.py-components)[Pypi](https://pypi.org/project/discord-components)
 
-### 투표 명령어
-
-Minibox\#3332님의 코드를 참고하였습니다!
-
-[Github](https://gist.github.com/minibox24/60acebe6322da42a16cc3822f2b747fe)
-
 ### 그 외...
 
 [os](https://github.com/python/cpython/blob/master/Lib/os.py), [time](https://docs.python.org/ko/3/library/time.html), [requests](https://github.com/psf/requests), [json](https://github.com/python/cpython/tree/master/Lib/json), [asyncio](https://pypi.org/project/asyncio/), [aiohttp](https://github.com/aio-libs/aiohttp), [ast](https://github.com/python/cpython/blob/master/Lib/ast.py), [sys](https://docs.python.org/3/library/sys.html), [datetime](https://docs.python.org/ko/3/library/datetime.html), [random](https://docs.python.org/3/library/random.html), [firebase\_admin](https://pypi.org/project/firebase-admin/), [pretty\_help](https://pypi.org/project/discord-pretty-help/), [koreanbots](https://pypi.org/project/koreanbots/), [jishaku](https://pypi.org/project/jishaku/)가 사용되었습니다!
@@ -55,4 +49,18 @@ Minibox\#3332님의 코드를 참고하였습니다!
 _**?타자연습**_ ****명령어에서 `티웨이 항공체` 글꼴이 사용되었습니다
 
 [홈페이지](https://www.twayair.com/app/serviceInfo/contents/1320#fntTab1)
+
+## 명령어 크레딧
+
+### 투표
+
+Minibox\#3332님의 코드를 참고하였습니다!
+
+[Github](https://gist.github.com/minibox24/60acebe6322da42a16cc3822f2b747fe)
+
+### 가사
+
+Rampaka\#6441님이 제작하신 코드를 응용하였습니다!
+
+[Github](https://github.com/Rampaka/Py-SearchLyrics-Bot)
 
