@@ -9,6 +9,11 @@
   * [크레딧](thingebot/about_thingebot/credit.md)
   * [띵이봇 웹사이트](https://thinge.teamteb.ga)
 
+## Beka \| 베카
+
+* [베카 소개](beka-or/undefined/README.md)
+  * [크레딧](beka-or/undefined/undefined.md)
+
 ## 링크들 <a id="links"></a>
 
 * [팀 텝 공식 웹사이트](https://www.teamteb.ga)
